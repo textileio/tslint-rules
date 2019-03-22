@@ -1,7 +1,7 @@
 {
   "name": "@textile/tslint-rules",
   "description": "Shared TSLint Rules",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "textile.io",
   "contributors": [
     "Sander Pick <sander@textile.io>"
