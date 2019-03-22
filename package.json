@@ -1,0 +1,16 @@
+{
+  "name": "@textileio/tslint-rules",
+  "description": "Shared TSLint Rules",
+  "version": "1.0.2",
+  "author": "textile.io",
+  "contributors": [
+    "Sander Pick <sander@textile.io>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/textileio/tslint-rules"
+  },
+  "homepage": "https://textile.io/",
+  "main": "tslint.json"
+}
