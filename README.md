@@ -1,7 +1,7 @@
 ## TSLint Shared Rules
 
 ```
-yarn add @textileio/tslint-rules
+yarn add @textile/tslint-rules
 ```
 
 #### Usage
@@ -10,7 +10,7 @@ Create a `tslint.json` file at the root of your project:
 
 ```
 {
-    "extends": "@textileio/tslint-rules/tslint"
+    "extends": "@textile/tslint-rules/tslint"
 }
 ```
 
